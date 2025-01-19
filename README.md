@@ -1,6 +1,7 @@
 👋🏽 Welcome to Pratyusha's GitHub Profile!
 
 About Me
+
 ✨ Hi there! I’m Pratyusha Dhulipalla, a passionate software developer with a knack for problem-solving and building impactful solutions.
 
 🎓 I’ve recently graduated with a Master’s in Advanced Computer Science, earning a distinction for my dedication and innovative work.
@@ -22,7 +23,7 @@ Tools & Frameworks: React, Docker, Kubernetes
 
 📫 Get in Touch
 💌 Email: pratyushadp97@gmail.com
-🔗 LinkedIn: Pratyusha Dhulipalla
+🔗 LinkedIn: in/pratyushadhulipalla
 
 Feel free to explore my repositories and projects—I'm always excited to connect, collaborate, and create! 😊
 
