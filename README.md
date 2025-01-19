@@ -11,10 +11,15 @@ About Me
 
 🔧 Tech Stack & Interests
 Programming Languages: C#, Python, JavaScript
+
 Web Development: ASP.NET, HTML, CSS
-Databases: SQL
+
+Databases: SQL, PostgreSQL
+
 Cloud Technologies: AWS
+
 Tools & Frameworks: React, Docker, Kubernetes
+
 📫 Get in Touch
 💌 Email: pratyushadp97@gmail.com
 🔗 LinkedIn: Pratyusha Dhulipalla
