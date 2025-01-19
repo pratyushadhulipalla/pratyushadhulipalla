@@ -22,7 +22,9 @@ Cloud Technologies: AWS
 Tools & Frameworks: React, Docker, Kubernetes
 
 📫 Get in Touch
+
 💌 Email: pratyushadp97@gmail.com
+
 🔗 LinkedIn: in/pratyushadhulipalla
 
 Feel free to explore my repositories and projects—I'm always excited to connect, collaborate, and create! 😊
